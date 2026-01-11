@@ -8,6 +8,19 @@
 
 ---
 
+## 💼 Projects & Professional Experience
+
+| Project | Role | Tech Stack | Key Contributions |
+|--------|------|------------|------------------|
+| **Skaybill** | Product Builder & Developper | Product Management, Java | Invoice management and payments tracking system | 
+| **Acitim** | Software Engineer | Java, ReactJS, REST APIs | Electronic payment solutions, ensuring reliability and high performance. |
+| **Bassetti Group** | AI & DevOps Engineer | Python, AWS, Datadog, PostgreSQL | Built cybersecurity analytics tools, automated workflows, and enhanced data compliance. |
+| **NS Global Expertise** | Software Developer | ReactJS, PostgreSQL, Postman | Contributed to a web platform for rural land management, ensuring smooth data integration and API interoperability. |
+| **HDM Network** | Full Stack ERP Intern | TypeScript, ReactJS, Python, Django, PostgreSQL | Developed ERP dashboards for production, HR, and finance, improving data tracking and reporting. |
+| **Skaylab** | Personal Project | ReactJS, NodeJS, MongoDB | Built an e-learning platform to improve access to education for underserved students, implementing scalable architecture and user-friendly interfaces. |
+
+---
+
 ## 🌟 Skills & Tools
 
 ### Backend
@@ -39,19 +52,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
----
-
-## 💼 Projects & Professional Experience
-
-| Project | Role | Tech Stack | Key Contributions |
-|--------|------|------------|------------------|
-| **Skaybill | Product Builder & Developper | Product Management, Java | Invoice management and payments tracking system | 
-| **Acitim** | Software Engineer | Java, ReactJS, REST APIs | Electronic payment solutions, ensuring reliability and high performance. |
-| **Bassetti Group** | AI & DevOps Engineer | Python, AWS, Datadog, PostgreSQL | Built cybersecurity analytics tools, automated workflows, and enhanced data compliance. |
-| **NS Global Expertise** | Software Developer | ReactJS, PostgreSQL, Postman | Contributed to a web platform for rural land management, ensuring smooth data integration and API interoperability. |
-| **HDM Network** | Full Stack ERP Intern | TypeScript, ReactJS, Python, Django, PostgreSQL | Developed ERP dashboards for production, HR, and finance, improving data tracking and reporting. |
-| **Skaylab** | Personal Project | ReactJS, NodeJS, MongoDB | Built an e-learning platform to improve access to education for underserved students, implementing scalable architecture and user-friendly interfaces. |
 
 ---
 
