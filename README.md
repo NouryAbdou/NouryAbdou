@@ -46,6 +46,7 @@
 
 | Project | Role | Tech Stack | Key Contributions |
 |--------|------|------------|------------------|
+| **Skaybill | Product Builder & Developper | Product Management, Java | Invoice management and payments tracking system | 
 | **Acitim** | Software Engineer | Java, ReactJS, REST APIs | Electronic payment solutions, ensuring reliability and high performance. |
 | **Bassetti Group** | AI & DevOps Engineer | Python, AWS, Datadog, PostgreSQL | Built cybersecurity analytics tools, automated workflows, and enhanced data compliance. |
 | **NS Global Expertise** | Software Developer | ReactJS, PostgreSQL, Postman | Contributed to a web platform for rural land management, ensuring smooth data integration and API interoperability. |
